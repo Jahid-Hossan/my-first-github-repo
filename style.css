@@ -1,0 +1,60 @@
+body {
+    width: 1000px;
+margin: auto;
+
+background-color: rgb(178, 181, 181);
+
+}
+.withcover{
+background-image: url(#);
+height: 
+background-repeat: no-repeat;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+.tt{
+   background-color: blanchedalmond;
+   height: 1000px;
+   padding: 10px;
+}
+.logo{
+    height: auto;
+    width: 60px;
+    border: 2px;
+    border-radius: 50%;
+    text-align: left;
+    float: left;
+    background-color: rgb(255, 255, 255);
+}
+.menu {
+    float: left;
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+    display: ;
+}
+.slogan{
+    text-align: center;
+    display: inline-block;
+}
+button {
+
+}
+.social a {
+padding: 10px;
+float: left;
+width: 30px;
+height: auto;
+}
+.menull{
+    text-align: center;
+}
+.social a img {
+    width: 20px;
+    height: 20px;
+}
+.social{
+    text-align: right;
+
+}
